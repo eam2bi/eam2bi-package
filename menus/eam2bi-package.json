@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle eam2bi-package",
+        "command": "eam2bi-package:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "eam2bi-package",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "eam2bi-package:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
