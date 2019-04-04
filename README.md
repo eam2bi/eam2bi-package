@@ -1,5 +1,5 @@
-# eam2bi-package package
+# eam2bi-theme-syntax theme
 
-A short description of your package.
+A short description of your theme.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)

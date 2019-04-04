@@ -1,18 +1,24 @@
 {
-  "name": "eam2bi-package",
-  "main": "./lib/eam2bi-package",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "name": "eam2bi-theme-syntax",
+  "theme": "syntax",
+  "version": "1.0.1",
+  "description": "Its an materials and eam2bi colors mechanism compatible with Atom. its a test PURPOSEs use for Masududzaman",
   "keywords": [
+    "syntx",
+    "theme",
+    "hack",
+    "Atom",
+    "sublime",
+    "python",
+    "Masududzaman",
+    "Aymaan",
+    "Nazmun",
+    "eam2bi"
+
   ],
-  "activationCommands": {
-    "atom-workspace": "eam2bi-package:toggle"
-  },
-  "repository": "https://github.com/atom/eam2bi-package",
+  "repository": "https://github.com/atom/eam2bi-theme-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
   }
 }
